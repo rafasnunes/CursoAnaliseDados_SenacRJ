@@ -2,7 +2,6 @@
 # Criar uma calculadora que receba dois números e seja capaz de somar, subtrair, multiplicar e dividir
 # Versão 4: O usuário entra com 2 números e seleciona qual operação deseja executar.
 
-# Teste do notebook
 
 import random
 
